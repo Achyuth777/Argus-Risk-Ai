@@ -1,0 +1,8 @@
+{
+  "name": "ARGUS V2 — Solana DeFi Risk Intelligence Terminal",
+  "description": "Autonomous risk-intelligence and portfolio liquidation monitor for Solana DeFi positions, featuring Kamino, Jupiter, Drift, and Raydium position analysis, health factor stress testing, and real-time alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
